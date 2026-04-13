@@ -1,0 +1,471 @@
+{
+  "chapter": 1,
+  "scene_3_revised": {
+    "scene_id": "scene_3_revised",
+    "scene_name": "Alone with Robert - The Shift (Revised Ending)",
+    "location": "Ten sam apartament (salon/obszar kanapy)",
+    "duration_minutes": 8,
+    "psychological_tracker": {
+      "empathy": 0,
+      "detachment": 0,
+      "humor": 0,
+      "anxiety": 0,
+      "dominance": 0,
+      "compliance": 0
+    },
+    "dialogue_entries": [
+      {
+        "id": "3_001",
+        "character": "Narrator",
+        "text": "Drzwi apartamentu zatrzaskują się za nimi. Mateusz, Antoni, Tomasz, Stasiek i Tymon są już poza apartamentem. Nagle jest bardzo cicho. Telewizor wciąż się świeci, rzucając niebieskie światło na twarz Roberta. Jest on głęboko pogrążony w kanapie, kontroler spoczywa na jego nogach, prawie nieprzytomny.",
+        "stage_direction": "Odległe dźwięki miasta przenikają przez okno. Oddech Roberta jest wolny i ciężki.",
+        "choices": null
+      },
+      {
+        "id": "3_002",
+        "character": "Robert",
+        "text": "Hm... zostałeś?",
+        "stage_direction": "Robert się porusza, oczy półotwarte, patrzy bardziej na ekran niż na ciebie",
+        "choices": [
+          {
+            "choice_id": "3_c1_a",
+            "text": "Tak, wszyscy poszli. Chcesz żebym poszedł do kuchni po wodę?",
+            "next_dialogue_id": "3_003a",
+            "psych_track": "empathy"
+          },
+          {
+            "choice_id": "3_c1_b",
+            "text": "Tak. Jak się czujesz? Wyglądasz kiepsko.",
+            "next_dialogue_id": "3_003b",
+            "psych_track": "detachment"
+          },
+          {
+            "choice_id": "3_c1_c",
+            "text": "Tak. Super babysitter z ciebie, czy nie?",
+            "next_dialogue_id": "3_003c",
+            "psych_track": "humor"
+          }
+        ]
+      },
+      {
+        "id": "3_003a",
+        "character": "Robert",
+        "text": "Woda? Kurwa, nie. Energetyk. Mateusz powiedział.",
+        "stage_direction": "Robert machnie ręką, wciąż skupiony na ekranie",
+        "choices": null
+      },
+      {
+        "id": "3_003b",
+        "character": "Robert",
+        "text": "Kiepsko? No, trochę. Ale mi się podoba. Gra mi się podoba.",
+        "stage_direction": "Nie patrzy na ciebie. Jego głos jest trochę nienaturalny.",
+        "choices": null
+      },
+      {
+        "id": "3_003c",
+        "character": "Robert",
+        "text": "Haha... babysitter. Tak, tak. To zajebiste. Geeked, co nie?",
+        "stage_direction": "Robert śmieje się, ale śmiech brzmi wymuszony. Jest lekkie opóźnienie przed śmiechem.",
+        "choices": null
+      },
+      {
+        "id": "3_004",
+        "character": "Narrator",
+        "text": "Siadasz na fotelu naprzeciwko niego. Jest moment ciszy. Telewizor gra dźwięki Isaac - monety, łzy, cyfrowe tło. Oczy Roberta są przyklęte do ekranu, ale coś się nie zgadza. Nie miga tak często jak zwykle.",
+        "stage_direction": "Słaby, chemiczny zapach w powietrzu - prawie niezauważalny, jak gdyby ktoś otworzył okno do miasta i zanieczyszczenie przemysłowe przedostało się do środka.",
+        "choices": null
+      },
+      {
+        "id": "3_005",
+        "character": "Robert",
+        "text": "Czułeś to? Ten zapach tutaj?",
+        "stage_direction": "Robert nagle mówi. Jego głos jest płaski, monotonny. Nie odwraca głowy.",
+        "choices": [
+          {
+            "choice_id": "3_c2_a",
+            "text": "Jaki zapach? Nie, nie czuję nic dziwnego.",
+            "next_dialogue_id": "3_006a",
+            "psych_track": "detachment"
+          },
+          {
+            "choice_id": "3_c2_b",
+            "text": "Co? Robert, coś się stało?",
+            "next_dialogue_id": "3_006b",
+            "psych_track": "anxiety"
+          },
+          {
+            "choice_id": "3_c2_c",
+            "text": "Zapach? Może to twoje skarpetki, chłop. Kiedy ostatnio je myłeś?",
+            "next_dialogue_id": "3_006c",
+            "psych_track": "humor"
+          }
+        ]
+      },
+      {
+        "id": "3_006a",
+        "character": "Robert",
+        "text": "Nie? Hm. Może ja coś widę... Albo słyszę. Nie wiem.",
+        "stage_direction": "Wreszcie miga. Powoli. Bardzo powoli, jak gdyby jego powieki były ciężkie.",
+        "choices": null
+      },
+      {
+        "id": "3_006b",
+        "character": "Robert",
+        "text": "Nie, nie. Wszystko spoko. Po prostu... egzystencja.",
+        "stage_direction": "Mówi słowo 'egzystencja' bardzo powoli, podkreślając każdą sylabę. To jest dziwne. Nieprawidłowe.",
+        "choices": null
+      },
+      {
+        "id": "3_006c",
+        "character": "Robert",
+        "text": "Haha. Tak. Może to skarpetki.",
+        "stage_direction": "Śmieje się, ale to jest puste. Jego usta się ruszają, ale jego oczy pozostają puste.",
+        "choices": null
+      },
+      {
+        "id": "3_007",
+        "character": "Robert",
+        "text": "Słuchaj, powiem ci coś. Ty... ty ciągle się odradzasz, wiesz? W Isaac. Każdy raz gdy umierasz, wracasz. Wieder. Znowu.",
+        "stage_direction": "Mówi w zmieszanym polsko-niemiec-angielskim. Jego głos wciąż jest płaski. Wskazuje ekran bez patrzenia na swoją rękę.",
+        "choices": null
+      },
+      {
+        "id": "3_008",
+        "character": "Narrator",
+        "text": "Jest coś naprawdę niepokojącego w jego sposobie mówienia. To nie jest zwykły Robert - pijany i pierdzielący o grach. To coś innego. Mechaniczne.",
+        "stage_direction": "Zauważasz, że jego dłonie drżą lekko na kontrolerze.",
+        "choices": [
+          {
+            "choice_id": "3_c3_a",
+            "text": "Robert, chyba powinieneś się przespać. Możesz się nie czuć dobrze.",
+            "next_dialogue_id": "3_009a",
+            "psych_track": "empathy"
+          },
+          {
+            "choice_id": "3_c3_b",
+            "text": "Co ty pierdolisz? Czujesz się dobrze?",
+            "next_dialogue_id": "3_009b",
+            "psych_track": "dominance"
+          },
+          {
+            "choice_id": "3_c3_c",
+            "text": "[Po prostu obserwujesz go uważnie, nie pytając]",
+            "next_dialogue_id": "3_009c",
+            "psych_track": "detachment"
+          }
+        ]
+      },
+      {
+        "id": "3_009a",
+        "character": "Robert",
+        "text": "Spać? Nie no. Jeszcze nie. Isaac... nie mogę teraz. Musi być Perfect run. Musi być Perfect.",
+        "stage_direction": "Jego oczy wciąż przyklejone do ekranu. Ale teraz wyglądają na niesfokusowane. Jak gdyby patrzył przez telewizor, a nie na niego.",
+        "choices": null
+      },
+      {
+        "id": "3_009b",
+        "character": "Robert",
+        "text": "Dobrze? Haha. Nigdy nie czułem się... nigdy. To nowe uczucie. To całkowicie chopped.",
+        "stage_direction": "Nagle odwraca głowę i patrzy prosto na ciebie. Jego oczy są zamazane. Jest coś złego w jego wyrażeniu - nie pasuje do tego, co mówi. Smirk pojawia się na jego twarzy.",
+        "choices": null
+      },
+      {
+        "id": "3_009c",
+        "character": "Robert",
+        "text": "Ty patrzysz na mnie. Czuję to. Wszyscy patrzą. Zawsze patrzą.",
+        "stage_direction": "Nie patrzy na ciebie. Jego palec drży na przycisku kontrolera.",
+        "choices": null
+      },
+      {
+        "id": "3_010",
+        "character": "Narrator",
+        "text": "Kilka sekund mija. Głowa Roberta się odwraca z powrotem do ekranu. Wydaje się... normalny znowu? Miga normalnie. Jego oddech się uspokaja.",
+        "stage_direction": "Dziwna napięcie pęka jak bańka mydła.",
+        "choices": null
+      },
+      {
+        "id": "3_011",
+        "character": "Robert",
+        "text": "Kurwa, jestem spoko. Po prostu jestem zmęczony. Ten piwuszek to kurwa było za dużo.",
+        "stage_direction": "Brzmi jak sam siebie znowu. Zwyczajny Robert - pijany, niejasny, ale znajomy.",
+        "choices": [
+          {
+            "choice_id": "3_c4_a",
+            "text": "Może rzeczywiście powinieneś przespać kilka godzin.",
+            "next_dialogue_id": "3_012a",
+            "psych_track": "empathy"
+          },
+          {
+            "choice_id": "3_c4_b",
+            "text": "Co do cholery to było, Robert? To było dziwne.",
+            "next_dialogue_id": "3_012b",
+            "psych_track": "anxiety"
+          },
+          {
+            "choice_id": "3_c4_c",
+            "text": "[Pozostają cicho i czekają]",
+            "next_dialogue_id": "3_012c",
+            "psych_track": "detachment"
+          }
+        ]
+      },
+      {
+        "id": "3_012a",
+        "character": "Robert",
+        "text": "Możliwe. Ale nie tutaj. Nie chcę tutaj spać. Coś mi się nie podoba.",
+        "stage_direction": "Przesunął się na kanapie, nieswojo.",
+        "choices": null
+      },
+      {
+        "id": "3_012b",
+        "character": "Robert",
+        "text": "Dziwne? Kurwa, nie było nic dziwnego. Ja tylko mówię głupoty, bo jestem geeked. Po prostu tym razem inny.",
+        "stage_direction": "Mówi 'spięty', ale to nie do końca pasuje. Oznacza pijanego, ale słowo jest błędne.",
+        "choices": null
+      },
+      {
+        "id": "3_012c",
+        "character": "Robert",
+        "text": "Hm. Czemu nie mówisz? Coś się stało?",
+        "stage_direction": "Zauważa twoją ciszę. To go niepokoić.",
+        "choices": null
+      },
+      {
+        "id": "3_013",
+        "character": "Narrator",
+        "text": "Około trzydzieści sekund ciszy. Robert gra w swoją grę. Ty siadasz. Telewizor brzęczy. Apartament czuje się ciężej niż wcześniej - jak gdyby powietrze było gęstsze.",
+        "stage_direction": "Chemiczny zapach jest teraz wyraźnie silniejszy. Wciąż prawie niezauważalny, ale jest tam.",
+        "choices": null
+      },
+      {
+        "id": "3_014",
+        "character": "Narrator",
+        "text": "Wtedy słyszysz to. Dźwięk. Jak by coś szurało na drewnianym podłożu.",
+        "stage_direction": null,
+        "choices": null
+      },
+      {
+        "id": "3_015",
+        "character": "Narrator",
+        "text": "Drzwi frontowe się otwierają. Mateusz, Antoni, Tomasz i Stasiek wchodzą z powrotem. Ale coś jest nie tak.",
+        "stage_direction": "Ich ruchy są powolne, nienaturalne. Ich twarze wyglądają dziwnie.",
+        "choices": null
+      },
+      {
+        "id": "3_016",
+        "character": "Mateusz",
+        "text": "Hej, hej. My się wrócimy.",
+        "stage_direction": "Smirk na jego twarzy. Nie wygląda jak normalna uśmiech.",
+        "choices": null
+      },
+      {
+        "id": "3_017",
+        "character": "Antoni",
+        "text": "Tak. Wrócimy. I znowu się bawić będziemy.",
+        "stage_direction": "Śmiech, ale to nie jest miły śmiech. To jest śmiech, który brzmi jak coś innego, coś co tylko udaje być śmiechem.",
+        "choices": null
+      },
+      {
+        "id": "3_018",
+        "character": "Narrator",
+        "text": "Zbliżają się do ciebie wolno. Bardzo wolno.",
+        "stage_direction": null,
+        "choices": [
+          {
+            "choice_id": "3_c5_a",
+            "text": "[Staniesz i zrobisz krok do tyłu]",
+            "next_dialogue_id": "3_019a",
+            "psych_track": "anxiety"
+          },
+          {
+            "choice_id": "3_c5_b",
+            "text": "[Pytasz co się dzieje]",
+            "next_dialogue_id": "3_019b",
+            "psych_track": "compliance"
+          }
+        ]
+      },
+      {
+        "id": "3_019a",
+        "character": "Tomasz",
+        "text": "Czemu się cofasz? My tylko chcemy ci coś pokazać. Chcemy ci powiedzieć prawdę o tobie.",
+        "stage_direction": "Jego głos jest spokojny. Za spokojny. Za zimny.",
+        "choices": null
+      },
+      {
+        "id": "3_019b",
+        "character": "Mateusz",
+        "text": "Co się dzieje? Haha. My tylko chcemy cię odwiedzić. Opowiedzieć ci o sobie.",
+        "stage_direction": "Opiera się na kanapie. Jego oczy nie mrugają.",
+        "choices": null
+      },
+      {
+        "id": "3_020",
+        "character": "Antoni",
+        "text": "Wiesz co? Ty byłeś zły przyjaciel. Zawsze. Od początku.",
+        "stage_direction": "Śmieje się i pchnie cię. Nie jest to silne, ale jest agresywne.",
+        "choices": null
+      },
+      {
+        "id": "3_021",
+        "character": "Tomasz",
+        "text": "Mogliśmy liczyć na ciebie. Ale ty nas zawiodłeś. Wszechnie nas zawiodłeś.",
+        "stage_direction": "Pcha cię ze spokojem. Jego uśmiech jest szeroki i pusty.",
+        "choices": null
+      },
+      {
+        "id": "3_022",
+        "character": "Narrator",
+        "text": "Wszyscy czterej zbliżają się do ciebie. Ich śmiechy mieszają się w jedną horrendalną symfonię.",
+        "stage_direction": "Stasiek mówi coś, ale jego usta się nie ruszają.",
+        "choices": null
+      },
+      {
+        "id": "3_023",
+        "character": "Narrator",
+        "text": "Wtedy zauważasz to. Za nimi. Na tle ciemności apartamentu.",
+        "stage_direction": null,
+        "choices": null
+      },
+      {
+        "id": "3_024",
+        "character": "Narrator",
+        "text": "Kształt. Coś, co było Robertem, ale już nie jest. Jego skóra jest teraz CZERWONA - głęboką, ciemną czerwoną, jak krew zaschła na słońcu. Jego włosy są wciąż takie same - jasnoblond, związane w tył - ale jego ciało jest WIĘKSZE, SZERSZE. Jego kształt jest całkowicie źle - proporcje niemożliwe.",
+        "stage_direction": "To, co było Robertem, ma szeroki uśmiech. Bardzo szeroki. Za szeroki. Jego zęby są zbyt białe. Jego oczy są całkowicie puste - nie ma duszy, nie ma człowieczeństwa. Są to oczy czegoś starego. Czegoś, co nigdy nie miało być człowiekiem.",
+        "choices": null
+      },
+      {
+        "id": "3_025",
+        "character": "Narrator",
+        "text": "To jest Redbert.",
+        "stage_direction": "Redbert porusza się naprzód. Jego ruchy nie są jak ludzie. Są jak animacja, która jest nieznacznie wyłączona.",
+        "choices": [
+          {
+            "choice_id": "3_c6_a",
+            "text": "[Biegasz do drzwi]",
+            "next_dialogue_id": "3_026a",
+            "psych_track": "anxiety"
+          },
+          {
+            "choice_id": "3_c6_b",
+            "text": "[Pozostają sparaliżowany, patrzając]",
+            "next_dialogue_id": "3_026b",
+            "psych_track": "detachment"
+          }
+        ]
+      },
+      {
+        "id": "3_026a",
+        "character": "Narrator",
+        "text": "Biegniesz. Słyszysz ich śmiech za sobą. Słyszysz Redberta, który się porusza za tobą, ale nie normalnie. Porusza się dziwnie, nierytmicznie.",
+        "stage_direction": "Docierasz do drzwi, ale nie mogą się otworzyć. Są zablokowane. Coś je blokuje. Naciskasz, ale nic.",
+        "choices": null
+      },
+      {
+        "id": "3_026b",
+        "character": "Narrator",
+        "text": "Nie możesz się ruszyć. Redbert zbliża się do ciebie powoli. Jego uśmiech robi się szerzszy. Jego puste oczy patrzą prosto na ciebie.",
+        "stage_direction": "Czujesz zapach - nie chemiczny już, ale coś starego, czegos niesamowitego. Czegos martw.",
+        "choices": null
+      },
+      {
+        "id": "3_027",
+        "character": "Narrator",
+        "text": "Ostatnią rzeczą, którą widzisz, jest ta twarz. Ta czerwona twarz. Ten uśmiech. Te puste oczy.",
+        "stage_direction": "Wszystko idzie czarne.",
+        "choices": null
+      },
+      {
+        "id": "3_028",
+        "character": "Narrator",
+        "text": "---",
+        "stage_direction": null,
+        "choices": null
+      },
+      {
+        "id": "3_029",
+        "character": "Narrator",
+        "text": "Godziny później. Budzisz się. Strażak sprawdza twój puls. Przez okno apartamentu widzisz innych wewnątrz, szukając czegoś.",
+        "stage_direction": "W oddali słychać syreny. Wszędzie jest zamieszanie, hałas, głosy. Gdy twoja świadomość powraca, słyszysz, jak strażak do kogoś mówi coś o wycieku gazu.",
+        "choices": null
+      },
+      {
+        "id": "3_030",
+        "character": "Narrator",
+        "text": "Blendu. Tlenek węgla. Cały apartament. Jak długo byliście tam sami?",
+        "stage_direction": "Próbujesz mówić, ale twoja gardło jest suche. Rozglądasz się, szukając Roberta, ale... są dwa nosidła. Dwie osoby są ładowane do karetek. Ty i ktoś inny. Ale Robert jest nieobecny.",
+        "choices": null
+      },
+      {
+        "id": "3_031",
+        "character": "Strażak",
+        "text": "Gdzie jest drugi? Gdzie jest twój przyjaciel? Znaleźliśmy tylko ciebie wewnątrz. Robert, powiedziałeś że się zwie?",
+        "stage_direction": "Strażak patrzy na ciebie intensywnie.",
+        "choices": null
+      },
+      {
+        "id": "3_032",
+        "character": "Narrator",
+        "text": "Próbujesz odpowiedzieć, ale coś nie idzie. Gdzie jest Robert? Czy on... czy on wziął się z tobą do ambulansu?",
+        "stage_direction": null,
+        "choices": null
+      },
+      {
+        "id": "3_033",
+        "character": "Strażak",
+        "text": "Przepraszam. Znaleźliśmy go, ale było już za późno. Robert Gębski. Znaleźliśmy jego ciało na kanapie. Zbyt długo był w tych warunkach. Nie mogliśmy go uratować.",
+        "stage_direction": "Strażak mówi to z żalem. Jego głos jest cichy.",
+        "choices": null
+      },
+      {
+        "id": "3_034",
+        "character": "Narrator",
+        "text": "Świat zaczyna się wirować. Nie możesz oddychać.",
+        "stage_direction": null,
+        "choices": null
+      },
+      {
+        "id": "3_035",
+        "character": "Strażak",
+        "text": "Posłuchaj. To nie twoja wina. Tlenek węgla to śmiertlena rzecz. Hallucynacje, dezorientacja, utrata przytomności. Obaj byliście poszkodowani. Ale ty przebudziłeś się szybko. On... nie.",
+        "stage_direction": "Strażak patrzy na ciebie z empatią, ale również z czymś innym. Z podejrzeniem może.",
+        "choices": null
+      },
+      {
+        "id": "3_036",
+        "character": "Strażak",
+        "text": "Bylo tu również coś innego. Pożar. Mały pożar w kuchni. Nie wiemy jak się rozprzestrzenił, ale gaz był wszędzie. Główny problem to tlenek węgla, ale pożar przyśpieszył ewakuację.",
+        "stage_direction": null,
+        "choices": null
+      },
+      {
+        "id": "3_037",
+        "character": "Narrator",
+        "text": "Kilka dni później. Siedzisz w swoim pokoju. Telefon dzwoni. To SMS z nieznanego numeru. Jest link do artykułu w internecie.",
+        "stage_direction": null,
+        "choices": null
+      },
+      {
+        "id": "3_038",
+        "character": "Narrator",
+        "text": "Nagłówek: 'TAJEMNICZE ZAPARCIE W WARSZAWIE - BRAK SZCZĄTKÓW'",
+        "stage_direction": null,
+        "choices": null
+      },
+      {
+        "id": "3_039",
+        "character": "Narrator",
+        "text": "'Policja potwierdza, że ciało Roberta Gębskiego, 18-letniego mieszkańca Warszawy, nie zostało znalezione na miejscu zdarzenia mimo wysiłków ratowników. Przyczyna wciąż niewyjaśniona. Rodzina domaga się śledztwa. Tlenek węgla został potwierdzony jako przyczyna wycieku, ale pozostałe okoliczności pozostają tajemnicze. ŻADNYCH SZCZĄTKÓW NIGDY NIE ZNALEZIONO.'",
+        "stage_direction": null,
+        "choices": null
+      },
+      {
+        "id": "3_040",
+        "character": "Narrator",
+        "text": "CHAPTER 1 KOŃCZY SIĘ",
+        "stage_direction": "Ekran zanika na czarność. Kredyty rolują dźwiękiem syren na tle.",
+        "choices": null
+      }
+    ]
+  }
+}

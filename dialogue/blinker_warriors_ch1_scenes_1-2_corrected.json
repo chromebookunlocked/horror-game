@@ -1,0 +1,389 @@
+{
+  "chapter": 1,
+  "scenes_expanded": [
+    {
+      "scene": "1",
+      "dialogue_entries": [
+        {
+          "id": "1_016",
+          "character": "Player",
+          "text": "Hej Robert, ile ty właściwie dzisiaj wypiłeś? Jesteś chopped, bruh.",
+          "stage_direction": null,
+          "choices": [
+            {
+              "choice_id": "1_c_016a",
+              "text": "Wygląda na to, że sporo. Może powinieneś zwolnić.",
+              "next_dialogue_id": "1_016a",
+              "psych_track": "empathy"
+            },
+            {
+              "choice_id": "1_c_016b",
+              "text": "Nie moja sprawa. Po prostu ciekawy jestem.",
+              "next_dialogue_id": "1_016b",
+              "psych_track": "detachment"
+            }
+          ]
+        },
+        {
+          "id": "1_016a",
+          "character": "Robert",
+          "text": "Zajebiste, że się martwisz. Ale jest spoko, wiem co robię.",
+          "stage_direction": "uśmiecha się, ale oczy są szkliste",
+          "choices": null
+        },
+        {
+          "id": "1_016b",
+          "character": "Robert",
+          "text": "Hmm, chyba mniej niż myślisz. A może więcej. Nie liczę.",
+          "stage_direction": "wzrusza ramionami, celowo niechalantny",
+          "choices": null
+        },
+        {
+          "id": "1_017",
+          "character": "Player",
+          "text": "Pamiętasz ten świetny moment, gdy wygrałeś na tej konsolce?",
+          "stage_direction": null,
+          "choices": [
+            {
+              "choice_id": "1_c_017a",
+              "text": "To było zajebiste. Powinieneś przyznać się do sukcesu.",
+              "next_dialogue_id": "1_017a",
+              "psych_track": "humor"
+            },
+            {
+              "choice_id": "1_c_017b",
+              "text": "Czemu o tym wspominam? To było przecież dawno.",
+              "next_dialogue_id": "1_017b",
+              "psych_track": "detachment"
+            }
+          ]
+        },
+        {
+          "id": "1_017a",
+          "character": "Robert",
+          "text": "Haha, tak! Ten moment był chyba ostatnim, gdy coś mi się naprawdę udało.",
+          "stage_direction": "śmiech głośniejszy niż powinien być. Ten moment był chyba ostatnim razem, gdy coś mu się naprawdę udało.",
+          "choices": null
+        },
+        {
+          "id": "1_017b",
+          "character": "Robert",
+          "text": "Dawno? Czujesz się jak ojciec czy co? Jestem w porządku.",
+          "stage_direction": "marszczy czoło",
+          "choices": null
+        },
+        {
+          "id": "1_018",
+          "character": "Player",
+          "text": "Napij się wody. Serio. Przyniosę ci.",
+          "stage_direction": null,
+          "choices": [
+            {
+              "choice_id": "1_c_018a",
+              "text": "Musisz się nawodnić. Będziesz mi dziękować.",
+              "next_dialogue_id": "1_018a",
+              "psych_track": "dominance"
+            },
+            {
+              "choice_id": "1_c_018b",
+              "text": "Może woda by ci pomogła? Nie wiem, co myślisz.",
+              "next_dialogue_id": "1_018b",
+              "psych_track": "compliance"
+            }
+          ]
+        },
+        {
+          "id": "1_018a",
+          "character": "Robert",
+          "text": "Kurwa, nie jestem dzieckiem. Ale spoko, wezmę sobie.",
+          "stage_direction": "wstaje niestabilnie, chwyta się krzesła",
+          "choices": null
+        },
+        {
+          "id": "1_018b",
+          "character": "Robert",
+          "text": "Dobra, dobra. Może masz rację. Przyniesiesz mi?",
+          "stage_direction": "kiwnie głową, ale nie podchodzi do kuchni",
+          "choices": null
+        },
+        {
+          "id": "1_019",
+          "character": "Player",
+          "text": "Isaac czy ci? Ty go znasz lepiej. Czy on zawsze pije tyle?",
+          "stage_direction": null,
+          "choices": [
+            {
+              "choice_id": "1_c_019a",
+              "text": "To jest dla jego dobra. Musimy wiedzieć co się dzieje.",
+              "next_dialogue_id": "1_019a",
+              "psych_track": "empathy"
+            },
+            {
+              "choice_id": "1_c_019b",
+              "text": "Ciekawy jestem, co o tym sądzisz.",
+              "next_dialogue_id": "1_019b",
+              "psych_track": "anxiety"
+            }
+          ]
+        },
+        {
+          "id": "1_019a",
+          "character": "Mateusz",
+          "text": "Ostatnio bardziej niż zwykle. Coś mu się nie podoba, ale nie mówi co.",
+          "stage_direction": "spogląda na Roberta z niepokojem",
+          "choices": null
+        },
+        {
+          "id": "1_019b",
+          "character": "Mateusz",
+          "text": "Słuchaj, Robert radzi sobie. Zawsze tak robił. To jego styl.",
+          "stage_direction": "wzrusza ramionami, ale wzrok oddala się od Roberta",
+          "choices": null
+        },
+        {
+          "id": "1_020",
+          "character": "Player",
+          "text": "Kurwa, Robert, może powinieneś przestać? Naprawdę wygląda na to, że ci źle.",
+          "stage_direction": null,
+          "choices": [
+            {
+              "choice_id": "1_c_020a",
+              "text": "Nie żartuję. Myślisz, że to zagrożenie dla nas?",
+              "next_dialogue_id": "1_020a",
+              "psych_track": "anxiety"
+            },
+            {
+              "choice_id": "1_c_020b",
+              "text": "Albo po prostu się zabawisz bardziej, jak zawsze.",
+              "next_dialogue_id": "1_020b",
+              "psych_track": "humor"
+            }
+          ]
+        },
+        {
+          "id": "1_020a",
+          "character": "Robert",
+          "text": "Zagrożenie? Dla czego? Bo piję? Wszystko w porządku, obiecuję.",
+          "stage_direction": "głos zbyt cicho, oczy się nie skupiają",
+          "choices": null
+        },
+        {
+          "id": "1_020b",
+          "character": "Robert",
+          "text": "Haha, tak! To jest właśnie to! Zajebiste! Ty po prostu jesteś geeked, kurwa. Powinieneś być mniej nudny.",
+          "stage_direction": "śmiech histeryczny, ale rozpaczliwy",
+          "choices": null
+        },
+        {
+          "id": "1_021",
+          "character": "Player",
+          "text": "Może chcesz porozmawiać? Coś cię ostatnio gryzło, co?",
+          "stage_direction": null,
+          "choices": [
+            {
+              "choice_id": "1_c_021a",
+              "text": "Słucham. Jeśli coś się dzieje, powinieneś o tym powiedzieć.",
+              "next_dialogue_id": "1_021a",
+              "psych_track": "empathy"
+            },
+            {
+              "choice_id": "1_c_021b",
+              "text": "Ale spoko, nie musisz nic mówić, jeśli nie chcesz.",
+              "next_dialogue_id": "1_021b",
+              "psych_track": "detachment"
+            }
+          ]
+        },
+        {
+          "id": "1_021a",
+          "character": "Robert",
+          "text": "Nie. To nic. Po prostu... czasami wszystko wydaje się bez sensu.",
+          "stage_direction": "patrzy w dół, głos cichszy",
+          "choices": null
+        },
+        {
+          "id": "1_021b",
+          "character": "Robert",
+          "text": "Dokładnie. Wszystko jest zajebiste. Nie ma o czym mówić.",
+          "stage_direction": "obraca się na krześle, nieobecny wzrok",
+          "choices": null
+        }
+      ]
+    },
+    {
+      "scene": "2",
+      "dialogue_entries": [
+        {
+          "id": "2_029",
+          "character": "Player",
+          "text": "Może jednak zostaniemy z tobą? Nie chcemy cię zostawiać samego.",
+          "stage_direction": null,
+          "choices": [
+            {
+              "choice_id": "2_c_029a",
+              "text": "Naprawdę. Możemy tu zostać dłużej. To nie problem.",
+              "next_dialogue_id": "2_029a",
+              "psych_track": "empathy"
+            },
+            {
+              "choice_id": "2_c_029b",
+              "text": "Ale pewnie chcesz być sam. Nie ma sprawy.",
+              "next_dialogue_id": "2_029b",
+              "psych_track": "compliance"
+            }
+          ]
+        },
+        {
+          "id": "2_029a",
+          "character": "Robert",
+          "text": "Spoko, spoko. Ja będę dobrze. Idźcie, zapraszam was znowu jak będę gotowy.",
+          "stage_direction": "uśmiech nie sięga oczu",
+          "choices": null
+        },
+        {
+          "id": "2_029b",
+          "character": "Robert",
+          "text": "Tak, może to dobry pomysł. Chciałbym być sam i odpocząć.",
+          "stage_direction": "kiwa głową zbyt szybko",
+          "choices": null
+        },
+        {
+          "id": "2_030",
+          "character": "Player",
+          "text": "Hej, Robert. Naprawdę wygląda na to, że się masz źle. Może powinieneś coś zrobić? Wiesz, rozmawiać z kimś?",
+          "stage_direction": null,
+          "choices": [
+            {
+              "choice_id": "2_c_030a",
+              "text": "Serio, myślę, że powinieneś się poddać leczeniu. To nie jest wstyd.",
+              "next_dialogue_id": "2_030a",
+              "psych_track": "empathy"
+            },
+            {
+              "choice_id": "2_c_030b",
+              "text": "Ale pewnie nie chcesz się do tego przyznawać.",
+              "next_dialogue_id": "2_030b",
+              "psych_track": "detachment"
+            }
+          ]
+        },
+        {
+          "id": "2_030a",
+          "character": "Robert",
+          "text": "Leczenie? Kurwa, nie jestem szalony. Po prostu... nie znoszę tej samotności.",
+          "stage_direction": "głos drży, ręce zaciśnięte w pięści",
+          "choices": null
+        },
+        {
+          "id": "2_030b",
+          "character": "Robert",
+          "text": "Oczywiście, że nie. To nie jest twoja sprawa, prawda?",
+          "stage_direction": "unikanie kontaktu wzrokowego, głos ostry",
+          "choices": null
+        },
+        {
+          "id": "2_031",
+          "character": "Player",
+          "text": "Kurwa, może to zabawne, ale ty potrzebujesz opieki, a my jesteśmy jak opiekunowie małego dziecka.",
+          "stage_direction": null,
+          "choices": [
+            {
+              "choice_id": "2_c_031a",
+              "text": "Żartuję oczywiście, ale serio się o ciebie martwimy.",
+              "next_dialogue_id": "2_031a",
+              "psych_track": "humor"
+            },
+            {
+              "choice_id": "2_c_031b",
+              "text": "Nie, czekaj, mówiłem głupio. Przepraszam.",
+              "next_dialogue_id": "2_031b",
+              "psych_track": "compliance"
+            }
+          ]
+        },
+        {
+          "id": "2_031a",
+          "character": "Robert",
+          "text": "Haha, opiekunowie. Dobry żart. Ale dzięki. Naprawdę.",
+          "stage_direction": "śmiech, ale oczy błyszczą od łez",
+          "choices": null
+        },
+        {
+          "id": "2_031b",
+          "character": "Robert",
+          "text": "Nie, nie. To było w porządku. Czasami potrzeba nieco humoru. Dzięki.",
+          "stage_direction": "siada, wygląda zmęczony",
+          "choices": null
+        },
+        {
+          "id": "2_032",
+          "character": "Player",
+          "text": "Obiecaj nam, że wrócisz do nas normalny. Wracamy za tydzień, co?",
+          "stage_direction": null,
+          "choices": [
+            {
+              "choice_id": "2_c_032a",
+              "text": "Będziesz lepiej. Wiesz, że będziesz. Obiecaj mi to.",
+              "next_dialogue_id": "2_032a",
+              "psych_track": "anxiety"
+            },
+            {
+              "choice_id": "2_c_032b",
+              "text": "A może ty do nas? Albo się nie spotkamy wcale.",
+              "next_dialogue_id": "2_032b",
+              "psych_track": "detachment"
+            }
+          ]
+        },
+        {
+          "id": "2_032a",
+          "character": "Robert",
+          "text": "Oczywiście. Będę czekać na was. Będzie lepiej, obiecuję.",
+          "stage_direction": "głos niski, obietnica pusta",
+          "choices": null
+        },
+        {
+          "id": "2_032b",
+          "character": "Robert",
+          "text": "Może. Zobaczymy co się stanie. Świat jest nieprzewidywalny.",
+          "stage_direction": "patrzy przez okno",
+          "choices": null
+        },
+        {
+          "id": "2_033",
+          "character": "Player",
+          "text": "Robert, poważnie, jeśli coś się stanie, coś dziwnego, zadzwoń do nas. Do każdego z nas.",
+          "stage_direction": null,
+          "choices": [
+            {
+              "choice_id": "2_c_033a",
+              "text": "Będziemy dla ciebie. Niezależnie od tego co się dzieje.",
+              "next_dialogue_id": "2_033a",
+              "psych_track": "empathy"
+            },
+            {
+              "choice_id": "2_c_033b",
+              "text": "Ale raczej nas nie będziesz potrzebować, prawda?",
+              "next_dialogue_id": "2_033b",
+              "psych_track": "detachment"
+            }
+          ]
+        },
+        {
+          "id": "2_033a",
+          "character": "Robert",
+          "text": "Wiem. Dzięki. Naprawdę. To wiele dla mnie znaczy.",
+          "stage_direction": "kiwa głową, ale jego oczy są puste",
+          "choices": null
+        },
+        {
+          "id": "2_033b",
+          "character": "Robert",
+          "text": "Zgadza się. Ale doceniam że pytasz.",
+          "stage_direction": "dostosowuje się do twojej postawy",
+          "choices": null
+        }
+      ]
+    }
+  ]
+}
